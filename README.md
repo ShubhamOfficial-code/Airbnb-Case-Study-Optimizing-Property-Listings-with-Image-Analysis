@@ -106,7 +106,3 @@ Based on the analysis, we recommend:
    - Superhosts should focus on **11 images**.
 
 These recommendations are supported by data-driven insights and aim to improve booking rates while reducing redundant listings.
-
----
-
-## Repository Structure
